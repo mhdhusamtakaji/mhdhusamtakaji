@@ -16,9 +16,9 @@ Experienced in designing and building both backend APIs and frontend interfaces,
 ### 🔑 Key Skills
 - **Full Stack Development**: Laravel, React.js, JavaScript, PHP, MySQL
 - **Mobile App Development**: Flutter, Dart
-- **Backend Development**: API design, Node.js, Python
+- **Backend Development**: API design, Laravel PHP, Java Spring Boot
 - **Frontend Development**: HTML5, CSS3, JavaScript, React.js, Bootstrap
-- **Databases**: MySQL, PostgreSQL, Firebase
+- **Databases**: MySQL
 - **Version Control**: Git, GitHub
 - **Languages**: Arabic (Native), English (Proficient - C2)
 
