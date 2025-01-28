@@ -16,7 +16,7 @@ Experienced in designing and building both backend APIs and frontend interfaces,
 ### 🔑 Key Skills
 - **Full Stack Development**: Laravel, React.js, JavaScript, PHP, MySQL
 - **Mobile App Development**: Flutter, Dart
-- **Backend Development**: API design, Laravel PHP, Java Spring Boot
+- **Backend Development**: API design, Laravel PHP
 - **Frontend Development**: HTML5, CSS3, JavaScript, React.js, Bootstrap
 - **Databases**: MySQL
 - **Version Control**: Git, GitHub
@@ -48,6 +48,10 @@ International University for Science and Technology (IUST)
 GPA: 2.78/4.00
 
 ### 🌍 Personal Projects
+- **[AIM (Artificial Intelligence Mentor)](http://www.aim.edu-waves.com)** (Jan 2025)  
+   a cutting-edge AI-powered educational platform designed to personalize and enhance learning experiences for students, teachers,
+  and educational institutions.
+  
 - **[EDU-Waves.com](http://www.edu-waves.com)** (July 2024)  
   Full stack web app for an educational organization, including user registration and course applications.
 
