@@ -49,7 +49,7 @@ GPA: 2.78/4.00
 
 ### 🌍 Personal Projects
 - **[AIM (Artificial Intelligence Mentor)](http://www.aim.edu-waves.com)** (Jan 2025)  
-   a cutting-edge AI-powered educational platform designed to personalize and enhance learning experiences for students, teachers,
+   A cutting-edge AI-powered educational platform designed to personalize and enhance learning experiences for students, teachers,
   and educational institutions.
   
 - **[EDU-Waves.com](http://www.edu-waves.com)** (July 2024)  
