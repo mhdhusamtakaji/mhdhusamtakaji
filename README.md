@@ -7,8 +7,9 @@
 I am a **Full Stack Developer** and **Information Technology Engineer** based in Muscat, Oman. With a strong background in both backend and frontend development, I am passionate about creating scalable applications and enhancing user experiences. 
 
 ### 📞 Contact Information
-- **Phone**: +968 76911628
+- **Phone**: +971 505890129
 - **Email**: [mhdhusamtakaji@gmail.com](mailto:mhdhusamtakaji@gmail.com)
+- **Location**: Dubai, UAE
 
 ### 🌟 Professional Summary
 Experienced in designing and building both backend APIs and frontend interfaces, along with cross-platform mobile apps using Flutter. I have strong team leadership, project management, and problem-solving abilities, with a demonstrated ability to adapt to new technologies quickly.
