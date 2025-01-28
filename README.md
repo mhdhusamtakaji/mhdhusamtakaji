@@ -1,7 +1,7 @@
 # MHD Husam Takaji
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/mhd-husam-takaji-a1a074289)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green)](https://your-portfolio-link.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green)](https://www.mhdhusamtakaji.com)
 
 
 ## 👋 Welcome to My GitHub Profile!
