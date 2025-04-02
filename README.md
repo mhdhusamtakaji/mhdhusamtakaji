@@ -1,6 +1,6 @@
 # MHD Husam Takaji
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/mhd-husam-takaji-a1a074289)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/mhd-husam-takaji-a1830b35a)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-green)](https://www.mhdhusamtakaji.com)
 
 
