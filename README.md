@@ -26,7 +26,7 @@ Experienced in designing and building both backend APIs and frontend interfaces,
 - **Languages**: Arabic (Native), English (Proficient - C2)
 
 ### 💼 Professional Experience
-#### Full Stack Developer & Project Maqnager
+#### Project Maqnager & Full Stack Developer
 *QRHUB 2025 – Present*
 - Built and deployed modern full-stack web applications using Next.js, Node.js, and MongoDB, improving platform performance and scalability.
 - Integrated QR code generation, authentication, and real-time analytics features to enhance user experience and business functionality.
