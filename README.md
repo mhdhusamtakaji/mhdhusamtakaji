@@ -26,11 +26,11 @@ Experienced in designing and building both backend APIs and frontend interfaces,
 - **Languages**: Arabic (Native), English (Proficient - C2)
 
 ### 💼 Professional Experience
-#### Full Stack Developer (Freelancer)
-*April 2023 – Present*
-- Developed web applications by translating user requirements into technical specifications.
-- Selected appropriate tech stacks and frameworks based on project requirements.
-- Designed, implemented, and maintained scalable systems to meet project goals.
+#### Full Stack Developer & Project Maqnager
+*QRHUB 2025 – Present*
+- Built and deployed modern full-stack web applications using Next.js, Node.js, and MongoDB, improving platform performance and scalability.
+- Integrated QR code generation, authentication, and real-time analytics features to enhance user experience and business functionality.
+- Led project planning and sprint management using Agile methodologies, coordinating between developers and stakeholders to deliver milestones on time.
 
 #### Full Stack Developer – Poslix, Oman
 *November 2023 – March 2024*
