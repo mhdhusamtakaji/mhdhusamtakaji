@@ -6,7 +6,7 @@
 
 ## 👋 Welcome to My GitHub Profile!
 
-I am a **Full Stack Developer** and **Information Technology Engineer** based in Muscat, Oman. With a strong background in both backend and frontend development, I am passionate about creating scalable applications and enhancing user experiences. 
+I am a **Full Stack Developer** and **Information Technology Engineer** based in Dubai, UAE. With a strong background in both backend and frontend development, I am passionate about creating scalable applications and enhancing user experiences. 
 
 ### 📞 Contact Information
 - **Phone**: +971 505890129
